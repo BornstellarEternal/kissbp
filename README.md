@@ -21,4 +21,4 @@ Setup
 4. At end of ".bashrc" source the "kissbp.sh" script
       e.g.
       `source $HOME/kissbp.sh` 
-5. Profit and go grab some coffee
+5. Reopen a new shell or from the current shell just type `source ~/.bashrc`
