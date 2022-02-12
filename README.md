@@ -6,7 +6,7 @@
 ---
 
 ### __about__  
-A stupid simple styler when zsh isn't an option 100% of the time
+A stupid simple styler for bash
 
 ### __howto__
 
