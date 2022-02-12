@@ -5,15 +5,12 @@
 
 ---
 
-### __about__  
-A simple stupid bash prompt styler i wrote for fun.
-
 ### __testing__
 
 Only tested on the following terminals...
 
-* KUbuntu Konsole
-* Ubuntu Default Terminal
+* Konsole
+* Ubuntu Terminal
 * Kitty
 
 ### __howto__
