@@ -10,7 +10,7 @@ A stupid simple styler when zsh isn't an option 100% of the time
 
 Requirements
 
-* Must have jq installed (e.g. sudo apt install jq)
+* Must have jq installed (e.g. `sudo apt install jq`)
 * Must be running terminal supporting 256 color
 
 Setup
@@ -20,5 +20,5 @@ Setup
 3. Stuff "kissbp.sh" in your home directory
 4. At end of ".bashrc" source the "kissbp.sh" script
       e.g.
-      source $HOME/kissbp.sh 
+      `source $HOME/kissbp.sh` 
 5. Profit and go grab some coffee
