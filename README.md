@@ -4,7 +4,7 @@
 ---
 
 ### __about__  
-I can't seem to catch a break. There's always something preventing me from running zsh. So here's a stupid simple styler when zsh isn't an option.
+A stupid simple styler when zsh isn't an option 100% of the time
 
 ### __howto__
 
