@@ -11,7 +11,7 @@ A stupid simple styler when zsh isn't an option 100% of the time
 Requirements
 
 * Must have jq installed (e.g. sudo apt install jq)
-* Must being running terminal supporting 256 color
+* Must be running terminal supporting 256 color
 
 Setup
 
