@@ -19,8 +19,9 @@ Setup
 
 1. Run "kissbp_colors.sh" script to find color id of interest for the foreground and background. (Tip) Choose 0 if you don't want a background color.
 2. Open up config file "kissbp.json" and add your color id(s) from step above. Change anything else you want at this time.
-3. Stuff "kissbp.sh" in your home directory
-4. At end of ".bashrc" source the "kissbp.sh" script
+3. Stuff `kissbp.json` in your home directory
+4. Stuff `kissbp.sh` in your home directory
+5. At the end of your ".bashrc" source the `kissbp.sh` script
       e.g.
       `source $HOME/kissbp.sh` 
 5. Reopen a new shell or from the current shell just type `source ~/.bashrc`
