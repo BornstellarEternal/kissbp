@@ -6,7 +6,7 @@
 ---
 
 ### __about__  
-A simple stupid bash prompt styler i wrote for fun. Only tested on kubuntu konsole as the moment (test it and let me know).
+A simple stupid bash prompt styler i wrote for fun. Only tested on kubuntu konsole at the moment (test it and let me know).
 
 ### __howto__
 
