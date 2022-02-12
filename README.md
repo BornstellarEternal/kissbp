@@ -6,7 +6,15 @@
 ---
 
 ### __about__  
-A simple stupid bash prompt styler i wrote for fun. Only tested on kubuntu konsole at the moment (test it and let me know).
+A simple stupid bash prompt styler i wrote for fun.
+
+### __testing__
+
+Only tested on the following terminals...
+
+* KUbuntu Konsole
+* Ubuntu Default Terminal
+* Kitty
 
 ### __howto__
 
