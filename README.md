@@ -24,3 +24,15 @@ Setup
       e.g.
       `source $HOME/kissbp.sh` 
 5. Reopen a new shell or from the current shell just type `source ~/.bashrc`
+
+### __a few more details__  
+
+Here's alittle info to get you started that explains a few simple configuration options in the "kissbp.json"
+
+* __kissbp_bpprompt_fg_color__ - foreground color of `kissbp_bpprompt_sym_look` setting  
+* __kissbp_bpprompt_fg_color__ - background color of `kissbp_bpprompt_sym_look` setting  
+* __kissbp_bpprompt_sym_look__ - the symbol you can set for your prompt (e.g. `$`, `>>`, `>`)  
+* __kissbp_userhost_sep_look__ - the symbol you might want to seperate your username and hostname (e.g. `@`)  
+* __kissbp_disable_blinking__ - if enabled it will highlight certain directories (right now `/` and `/mnt`). it will also blink a git branch (see next setting) if your working tree is dirty.    
+* __kissbp_blinking_branch__ - the name of the branch to blink on  
+* the rest you can probably figure out ;) after all it is a simple stupid styler
