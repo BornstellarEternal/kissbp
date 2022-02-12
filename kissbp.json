@@ -1,0 +1,29 @@
+{
+    "kissbp_username_fg_color": 220,
+    "kissbp_username_bg_color": 0,
+
+    "kissbp_userhost_sep_fg_color": 222,
+    "kissbp_userhost_sep_bg_color": 0,
+
+    "kissbp_hostname_fg_color": 224,
+    "kissbp_hostname_bg_color": 0,
+
+    "kissbp_dirty_gb_fg_color": 196,
+    "kissbp_dirty_gb_bg_color": 0,
+
+    "kissbp_clean_gb_fg_color": 154,
+    "kissbp_clean_gb_bg_color": 0,
+
+    "kissbp_curr_dir_fg_color": 255,
+    "kissbp_curr_dir_bg_color": 0,
+
+    "kissbp_bpprompt_fg_color": 121,
+    "kissbp_bpprompt_bg_color": 0,
+
+    "kissbp_bpprompt_sym_look": ">> ",
+    "kissbp_userhost_sep_look": "@",
+
+    "kissbp_disable_blinking": "false",
+
+    "kissbp_blinking_branch": "main"
+}
