@@ -6,7 +6,7 @@
 ---
 
 ### __about__  
-A stupid simple styler for bash
+A simple stupid styler for bash i wrote for fun
 
 ### __howto__
 
