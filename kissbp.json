@@ -1,29 +1,42 @@
 {
-    "kissbp_username_fg_color": 220,
-    "kissbp_username_bg_color": 0,
+    "kissbp_username_fg_color": 213,
+    "kissbp_username_bg_color": 256,
 
-    "kissbp_userhost_sep_fg_color": 222,
-    "kissbp_userhost_sep_bg_color": 0,
+    "kissbp_userhost_sep_fg_color": 217,
+    "kissbp_userhost_sep_bg_color": 256,
 
-    "kissbp_hostname_fg_color": 224,
-    "kissbp_hostname_bg_color": 0,
+    "kissbp_hostname_fg_color": 219,
+    "kissbp_hostname_bg_color": 256,
 
-    "kissbp_dirty_gb_fg_color": 196,
-    "kissbp_dirty_gb_bg_color": 0,
+    "kissbp_dirty_gb_fg_color": 9,
+    "kissbp_dirty_gb_bg_color": 256,
 
     "kissbp_clean_gb_fg_color": 154,
-    "kissbp_clean_gb_bg_color": 0,
+    "kissbp_clean_gb_bg_color": 256,
 
     "kissbp_curr_dir_fg_color": 255,
-    "kissbp_curr_dir_bg_color": 0,
+    "kissbp_curr_dir_bg_color": 256,
 
-    "kissbp_bpprompt_fg_color": 121,
-    "kissbp_bpprompt_bg_color": 0,
+    "kissbp_ip_fg_color": 121,
+    "kissbp_ip_bg_color": 256,
+
+    "kissbp_datetime_fg_color": 123,
+    "kissbp_datetime_bg_color": 256,
+
+    "kissbp_bpprompt_fg_color": 190,
+    "kissbp_bpprompt_bg_color": 256,
 
     "kissbp_bpprompt_sym_look": ">> ",
     "kissbp_userhost_sep_look": "@",
 
-    "kissbp_disable_blinking": "false",
+    "kissbp_enable_special_branch_blinking": "true",
+    "kissbp_enable_special_branch_formatting": "true",
+    "kissbp_enable_special_branch_message": "true",
+    "kissbp_special_dirty_branch_message": "remember to clean",
+    "kissbp_special_clean_branch_message": "remember to squash",
+    "kissbp_special_branch_name": "main",
 
-    "kissbp_blinking_branch": "main"
+    "kissbp_enable_special_dir_blinking": "true",
+    "kissbp_enable_special_dir_formatting": "true"
+
 }
