@@ -30,13 +30,12 @@ SYMBOL_1="$( jq -r          .symbol_1 ${conf} )"
 SYMBOL_2="$( jq -r          .symbol_2 ${conf} )"
 
 R="\e[0m"
-u_tmp="Bornstellar"
-h_tmp="Forerunner"
+
 function setup_user_hostname_labeling ()
 {
-	userlabel="${UN_BG}${UN_FG}${u_tmp}${R}"
+	userlabel="${UN_BG}${UN_FG}\u${R}"
 	seprlabel="${UH_SEP_BG}${UH_SEP_FG}${SYMBOL_2}${R}"
-	hostlabel="${HN_BG}${HN_FG}${h_tmp}${R}"
+	hostlabel="${HN_BG}${HN_FG}\h${R}"
 	userhostlabel="${userlabel}${seprlabel}${hostlabel}"
 }
 
